@@ -1,5 +1,4 @@
-# task-02
-Chat App
+# Mern Chat App
 
 # Tech stack : MongoDb, Expressjs, Reactjs, Nodejs
 - Clone the project
